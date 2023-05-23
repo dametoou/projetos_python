@@ -21,3 +21,4 @@ while True:
         if opc == 4: print(f"{n1}/{n2} = {div(n1, n2)}")
         
 print("Obrigado por utilizar a Calculadora Lambda!")
+input()
